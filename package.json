@@ -18,5 +18,8 @@
   "homepage": "https://github.com/msnaye/object-oriented#readme",
   "devDependencies": {
     "jest": "^28.1.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
   }
 }
